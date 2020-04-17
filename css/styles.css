@@ -1,0 +1,177 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1{
+  margin-top: 50px auto 0 auto ;
+  font-family: 'Caveat', cursive;
+  font-size: 5.625rem;
+}
+
+h2{
+  font-family: 'Chakra Petch', sans-serif;
+  color: #11999E;
+  text-decoration: bold;
+  font-size: 35px;
+  font-weight: normal;
+}
+
+h3{
+   font-family: 'Chakra Petch', sans-serif;
+
+  font-size: 20px;
+}
+
+p{
+  font-family: 'Merriweather', serif;
+}
+
+hr{
+  border-style: dotted none none;
+  width:4%;
+  heigh:16px;
+  border-width: 7px;
+  color: grey;
+  margin: 50px auto;
+}
+
+
+nav{
+  background-color: white;
+  color: #11999E;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left:0;
+}
+
+.main{
+  /*
+  background-color: #05dfd7;
+  */
+  background-color: #11999E;
+  position: relative;
+  padding-top: 100px;
+  color: white;
+}
+
+.bottom-cloud{
+  position: absolute;
+  bottom: 450px;
+  left: 20%;
+}
+
+.top-cloud{
+  position: absolute;
+  top: 70px;
+  right: 20%;
+}
+
+.middle-container{
+  padding-top: 20px;
+}
+
+.bottom-container{
+  padding: 25px;
+    background-color: #11999E;
+
+}
+
+.skill-images1{
+  height: 150px;
+  float: right;
+  margin-left: 30px;
+}
+.skill-images2{
+  height: 150px;
+  float: left;
+  margin-right: 30px;
+}
+.skill-images3{
+  height: 150px;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+  height: 200px;
+  border: 2px solid black;
+  border-color: #11999E;
+  border-radius: 20px;
+  padding: 20px;
+  color: #11999E;
+}
+
+.skill-row:hover{
+  background-color: #11999E;
+  color: white;
+
+}
+
+.contact-icons{
+  height: 50px;
+  border: 1px solid white;
+  border-radius: 10px;
+}
+
+.footer-link{
+  padding: 2px;
+}
+
+
+.button{
+  height: 50px;
+  width: 150px;
+  background-color: #11999E;
+  color: white;
+  text-decoration: bold;
+  border: 2px solid white;
+  border-radius: 20px;
+   box-shadow: 1px 1px 20px 0px #000000;
+  font-size: 15px;
+}
+
+.button:hover{
+  background-color: white;
+  color: #11999E;
+  border-color :#11999E;
+}
+
+.nav-links{
+  text-align: right;
+  padding-right:  30px;
+}
+
+.logo{
+  color: #11999E;
+  font-family: 'Caveat', cursive;
+  text-align: left;
+  position: absolute;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+.nav-links2{
+  color: #11999E;
+  text-decoration: none;
+}
+
+.nav-links2:hover{
+  font-size: 105%;
+}
+
+
+
+/*
+font-family: 'Caveat', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Chakra Petch', sans-serif;
+
+<a class="btn" href="mailto:gayalasatwik1999@gmail.com">CONTACT ME</a>
+*/
